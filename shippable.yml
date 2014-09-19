@@ -19,4 +19,4 @@ script:
   
 notifications:
   email:
-    - ms.coffee@gmail.com
+    - manisha@shippable.com
