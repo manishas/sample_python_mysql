@@ -20,3 +20,5 @@ script:
 notifications:
   email:
     - manisha@shippable.com
+    
+commit_container: manishas/moron
